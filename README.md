@@ -13,3 +13,9 @@ Gets a list from numbers from 0 to the user input number, check numbers if:
     if (i%5==0)
 ```
 4. The number is none of the previous cases return the number.
+
+
+# Run
+1. Clone the Project.
+2. Open **index.html**
+3. input a number and press Add me.
